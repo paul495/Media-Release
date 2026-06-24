@@ -90,11 +90,11 @@ Sole designer and developer. I:
 
 > Replace the bracketed figures with your real numbers — quantified outcomes are the most persuasive part of the case study.
 
-- ⏱️ Cut on-site processing time per participant by **[75]%** by pre-filling data before the event
+- ⏱️ Cut on-site processing time per participant by 75 % by pre-filling data before the event
 - 📋 Replaced paper releases with a **searchable, auditable digital record**
 - 🔗 Linked **signature + photo + identity** in a single verifiable record per participant
 - 📱 Gave producers a **mobile-first tool** usable anywhere in the venue
-- 👥 Used across **[230] events / [4000] participants**
+- 👥 Used across 230 events / 4000 participants**
 
 ---
 
